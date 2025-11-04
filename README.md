@@ -1,5 +1,5 @@
 <h1>CS50 Problem Set 5 Solutions</h1>
-p>This file contains the corrected and completed solutions for Problem Set 5 (Pset5) from Harvard's CS50 course: Introduction to Computer Science.</p>
+This file contains the corrected and completed solutions for Problem Set 5 (Pset5) from Harvard's CS50 course: Introduction to Computer Science.
 
 <div class="warning-box">
         <p><strong>&#9888; Important Requirement:</strong></p>
@@ -36,4 +36,3 @@ p>This file contains the corrected and completed solutions for Problem Set 5 (Ps
 
 </body>
 </html>
-```
